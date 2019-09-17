@@ -1,0 +1,16 @@
+{
+    "name": "jandelson/active-router",
+    "description": "Um simples roteador para quem está iniciando com rotas e não precise de rotas complexas",
+    "authors": [
+        {
+            "name": "Jandelson Oliveira",
+            "email": "jandelson_oliveira@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+          "AcitiveRouter\\": "src/"
+        }
+    }
+}
