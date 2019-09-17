@@ -9,7 +9,6 @@
             "email": "jandelson_oliveira@yahoo.com.br"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
           "ActiveRouter\\": "src/"
