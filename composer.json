@@ -1,6 +1,8 @@
 {
     "name": "jandelson/active-router",
     "description": "Um simples roteador para quem está iniciando com rotas e não precise de rotas complexas",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jandelson Oliveira",
